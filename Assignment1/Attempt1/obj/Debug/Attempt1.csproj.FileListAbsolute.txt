@@ -1,0 +1,6 @@
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\bin\Debug\Attempt1.exe.config
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\bin\Debug\Attempt1.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\bin\Debug\Attempt1.pdb
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\obj\Debug\Attempt1.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\obj\Debug\Attempt1.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Assignment1\Attempt1\obj\Debug\Attempt1.pdb
